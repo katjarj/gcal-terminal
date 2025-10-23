@@ -48,8 +48,10 @@ gcal "Lunch" "Personal" "2025-10-25" "12:00" "13:00" "Catch up" "Downtown Cafe"
 
 ### Arguments
 
+Arguments are all strings. "Double quotes" or 'single quotes' both work.
+
 - **title**: Event title (required)
-- **calendar**: Calendar name or empty string "" for default (required)
+- **calendar**: Calendar name or empty string for default (required)
 - **date**: YYYY-MM-DD format (required)
 - **start-time**: HH:MM format (required)
 - **end-time**: HH:MM format (required)
