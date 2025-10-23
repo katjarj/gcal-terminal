@@ -13,7 +13,7 @@ A simple Command Line Interface for Google Calendar on Mac. Create Google Calend
 5. Deploy as Web App (Execute as: Me, Who has access: Anyone)
 6. Copy the deployment URL
 
-This step must be done to reproduce the tool on your own as you will need to access your own calendar. All code is provided in 'apps-script.js'.
+This step must be done to reproduce the tool on your own as you will need to access your own calendar. All code is provided in `apps-script.js`.
 
 ### 2. Install the script
 
