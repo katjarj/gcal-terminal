@@ -23,7 +23,7 @@ This step must be done to reproduce the tool on your own as you will need to acc
 ```bash
    chmod +x gcal.sh
 ```
-4. Add alias to `~/.bash_profile` or `~/.zshrc`:
+4. Add alias to `~/.bash_profile` or `~/.zshrc` (I used bash):
 ```bash
    alias gcal="~/gcal.sh"
    source ~/.bash_profile
